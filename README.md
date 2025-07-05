@@ -51,7 +51,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: **namit2006rana@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/namit06rana](https://linkedin.com/in/namit06rana)  
+- 💼 LinkedIn: [linkedin.com/in/namit06rana](https://linkedin.com/in/namit-rana)  
 - 🌐 Portfolio: *Coming soon*
 
 ---
