@@ -1,4 +1,3 @@
-[![My GitHub contribution graph](https://raw.githubusercontent.com/Namit-Rana6/Namit-Rana6/main/output/snake-dark.svg)](https://github.com/YOUR_USERNAME)
 # 👋 Hey there, I'm Namit Rana!
 
 🎓 Second-year CS student @ Deen Dayal Upadhyaya College (University of Delhi)  
@@ -48,6 +47,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
 
 ---
+[![My GitHub contribution graph](https://raw.githubusercontent.com/Namit-Rana6/Namit-Rana6/main/output/snake-dark.svg)](https://github.com/Namit-Rana6/)
 
 ## 📫 Let's Connect
 
