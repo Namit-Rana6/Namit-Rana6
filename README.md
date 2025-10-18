@@ -46,6 +46,7 @@
 ![Google ADK](https://img.shields.io/badge/-Google%20ADK-black?style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
 
+[![An image of @namitrana6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namitrana6)](https://holopin.io/@namitrana6)
 ---
 [![My GitHub contribution graph](https://raw.githubusercontent.com/Namit-Rana6/Namit-Rana6/main/output/snake-dark.svg)](https://github.com/Namit-Rana6/)
 
