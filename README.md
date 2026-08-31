@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Namit Rana</h1>
-<h3 align="center">A passionate AI/ ML and Full Stack developer from India</h3>
+<p align="center">
+  <a href="https://github.com/Namit-Rana6">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Namit%20Rana" alt="Hello! I&#39;m Namit Rana" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Drug%20Addict;BIG%20ONE" alt="Typing headlines" />
+</p>
 
-## 💫 About Me
-
-Final-year B.Sc. (Hons) Computer Science student at the University of Delhi (2023–2026) 🧠 AI/ML researcher and developer with a focus on LLMs, computer vision, and generative AI. 🔬 Research Assistant working on medical image classification and skin cancer detection, with research recognized by a Best Paper Award at ICIDSSD '26. 🏆 Honorable Mention – Google × Kaggle Tunix Hackathon | 1st Place – Vihaan 8.0 (IEEE DTU) | 2nd Runner-Up – HackWith Gujarat. 💻 Currently exploring LLM post-training and reasoning, Transformers, Diffusion Models, Knowledge Graphs, and full-stack development. Always building, researching, and learning.
 
 <p align="center">
   <a href="https://namitrana.dev">
@@ -12,67 +15,113 @@ Final-year B.Sc. (Hons) Computer Science student at the University of Delhi (202
   </a>
 </p>
 
-<h3 align="center">🌐 Let's Connect</h3>
+### 💫 About Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/namit-rana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/NamitRana8"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:namit2006rana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://kaggle.com/namitrana06"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://leetcode.com/nr101"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/namit20g5m8"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://github.com/<Namit-Rana6>"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+I’m a final-year Computer Science student at the University of Delhi who enjoys understanding how intelligent systems work and then building them myself. My interests lie at the intersection of AI/ML, LLMs, computer vision, and software engineering. I’ve worked on medical AI research, LLM post-training and reasoning systems, and full-stack applications, and I enjoy taking ideas from experimentation and research all the way to working implementations. Along the way, I’ve had the opportunity to contribute to research recognized with a Best Paper Award and compete in hackathons, including the Google × Kaggle Tunix Hackathon. I’m currently diving deeper into LLM reasoning, Transformers, Diffusion Models, Knowledge Graphs, and AI-powered applications, while continuing to build, experiment, and learn.
+
+
+
+### 🚀 What I'm Working On
+
+- 🧠 **LLM Reasoning & Post-Training** — Developing a research project around Gemma + Tunix, exploring SFT, GRPO, PEFT, and reasoning-focused post-training.
+- 🔬 **Medical Computer Vision Research** — Extending my skin cancer classification research through experiments with CNN and transformer-based architectures, including ResNet, EfficientNet, and ViT.
+- 🕸️ **Knowledge Graph Generation** — Building systems that transform unstructured text into structured graphs and relationships.
+- 🌐 **GitHub Profile & README Builder** — Building a full-stack tool from scratch for creating, customizing, and generating developer profiles and READMEs.
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/namit-rana" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://namitrana.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:namit2006rana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/NamitRana8" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://kaggle.com/namitrana06" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://leetcode.com/nr101" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/namit20g5m8" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://github.com/Namit-Rana6" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 
-## 📊 GitHub Stats
+
+### 📊 GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://ghstats.dev/api/card?username=Namit-Rana6&theme=tokyonight&show_ring=false&hide=grade%2Cactive_day%2Cavg%2Ctrend%2Cstreak%2Cweek%2Cfollowers" width="100%" alt="Namit Rana's GitHub Stats" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Namit-Rana6&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" width="100%" alt="Most Used Languages" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br>
+<img src="https://streak-stats.demolab.com/?user=Namit-Rana6&theme=tokyonight&hide_border=true&background=00000000" width="90%" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+</div>
+
+## 🌱 Open Source
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.shion.dev/api?username=Namit-Rana6&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"
-        width="100%"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.shion.dev/api/top-langs/?username=Namit-Rana6&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        width="100%"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="middle">
+
+Earned **Hacktoberfest Super Contributor** last year and looking forward to getting back into open source and contributing again this year.
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://holopin.io/@namitrana6">
+  <img src="https://holopin.me/namitrana6" alt="Holopin Badges" width="300"/>
+</a>
+
+</td>
+</tr>
 </table>
-
-<br>
-
-<img
-  src="https://streak-stats.demolab.com/?user=Namit-Rana6&theme=algolia&hide_border=false"
-  width="90%"
-  alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  src="https://holopin.me/namitrana6"
-  width="90%"
-  alt="Holopin Badges"
-/>
-
-<br><br>
-
-<img
-  src="https://raw.githubusercontent.com/Namit-Rana6/Namit-Rana6/main/output/snake-dark.svg"
-  width="90%"
-  alt="Contribution Snake"
-/>
-
-</div>
