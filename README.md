@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Drug%20Addict;BIG%20ONE" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=500&height=44&lines=AI%2FML+Researcher+%26+Developer;Building+with+LLMs+%26+Computer+Vision;Researching%2C+Building%2C+Learning" alt="Typing headlines" />
 </p>
-
 
 <p align="center">
   <a href="https://namitrana.dev">
