@@ -1,84 +1,27 @@
-# 👋 Hey there, I'm Namit Rana!
+<h1 align="center">Hi 👋, I'm Namit Rana</h1>
+<h3 align="center">A passionate AI/ ML and Full Stack developer from India</h3>
 
-🎓 Final-year B.Sc. (Hons) Computer Science student @ University of Delhi (2023–2026)
-🧠 Research Assistant working on CNN-based medical image classification (skin cancer detection)
-🏆 Best Paper Award (ICIDSSD '26) | Google × Kaggle Tunix Hackathon Honorable Mention | 1st Place – Vihaan 8.0 (IEEE DTU)
-💻 Always building, always scaling, always learning
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=namit-rana6&label=Profile%20views&color=0e75b6&style=flat" alt="namit-rana6" /> </p>
 
----
+- 🔭 I’m currently working on **Creating an Open Source version of Napkin AI**
 
-## 🚀 What I'm Working On
+- 👨‍💻 All of my projects are available at [namitrana.dev](namitrana.dev)
 
-- 🧩 LLM post-training pipelines (SFT → GRPO RL → Self-Distillation) on JAX/TPU
-- 🧬 ML for medical/clinical risk prediction (dermoscopic imaging, cardiogenetic risk)
-- 📊 Benchmarking and evaluating LLMs for production deployment
-- 🌐 Full-stack development (MERN) and ML systems infrastructure
+- 📫 How to reach me **namit2006rana@gmail.com**
 
----
+- 📄 Know about my experiences [https://www.namitrana.dev/resume/ml](https://www.namitrana.dev/resume/ml)
 
-## 💼 Experience
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/namit-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namit-rana" height="30" width="40" /></a>
+<a href="https://kaggle.com/namitrana06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="namitrana06" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nr101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nr101" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/namit20g5m8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="namit20g5m8" height="30" width="40" /></a>
+</p>
 
-**Research Assistant** — Under Prof. Raj Kumar Sharma, GGSIPU New Delhi *(Aug 2025 – Present)*
-- Trained 8 CNN architectures on 5,666 dermoscopic images (BCN20000); best model hit 83% accuracy / AUC 0.90 for MEL/BCC classification
-- Co-authored and presented paper at ICIDSSD '26, Jamia Hamdard — **Best Paper Award**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-**Technology Research Intern** — To-Let Globe, New Delhi *(Feb 2025 – Apr 2025)*
-- Benchmarked 10+ LLMs (GPT, Gemini, LLaMA, DeepSeek) on cost, latency, and fine-tunability
-- Delivered the technical report that informed the company's chatbot deployment strategy
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namit-rana6&show_icons=true&locale=en&layout=compact" alt="namit-rana6" /></p>
 
-**Technology Intern, ML Recommendations Team** — Sam Monitoring Solutions, New Delhi *(Jun 2024 – Dec 2024)*
-- Fixed a critical data leakage bug and proposed optimizations yielding a 25% efficiency improvement
-
----
-
-## 🧪 Featured Projects
-
-**Glassbox** — Structured Reasoning via LLM Post-Training | `JAX` `Tunix` `GRPO` `TPU`
-- 3-tier pipeline (SFT → GRPO RL → Self-Distillation) on Gemma-2-2B; ~100% format compliance, emergent self-correction
-- Curated a 50k-sample multi-domain reasoning corpus with strict data-hygiene across tiers
-
-**Cardi-HACK** — Ensemble ML Pipeline for Cardiogenetic Risk Prediction | `Python` `Scikit-learn`
-- Top 1% global ranking using a stacked ensemble with probability calibration on clinical + SNP data
-
----
-
-## 🏆 Leadership & Achievements
-
-- 🥇 Honorable Mention — Google × Kaggle Tunix Hackathon (11,173 entrants, 322 final submissions)
-- 🏅 Best Paper Award — ICIDSSD '26, Jamia Hamdard
-- 🥇 1st Place (Top 0.25%) — Vihaan 8.0 Hackathon, IEEE DTU
-- 🥉 2nd Runner-Up (Top 0.5%) — HackWith Gujarat, State-Level Hackathon
-- 🎖️ Finalist — Multiple national hackathons (Govt. of Delhi, IIIT-D, GGSIPU, BVCOE, etc.)
-- 🌟 Hacktoberfest Super Contributor — 8 PRs submitted, 7 merged
-
----
-
-## 🧰 Languages & Tools
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
-![JAX](https://img.shields.io/badge/-JAX-black?style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-
-[![An image of @namitrana6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namitrana6)](https://holopin.io/@namitrana6)
-
----
-
-[![My GitHub contribution graph](https://raw.githubusercontent.com/Namit-Rana6/Namit-Rana6/main/output/snake-dark.svg)](https://github.com/Namit-Rana6/)
-
-## 📫 Let's Connect
-
-- 📧 Email: **namit2006rana@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/namit-rana](https://linkedin.com/in/namit-rana)
-- 🌐 Portfolio: [namitrana.dev](https://namitrana.dev)
-
----
-
-> "I don't just code to build — I code to make a difference."
-> — Namit Rana
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namit-rana6&show_icons=true&locale=en" alt="namit-rana6" /></p>
